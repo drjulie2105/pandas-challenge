@@ -19,5 +19,7 @@ Used pandas and Jupyter to create various summary tables of Py City Schools
   -Created Summary Table of School Performance Based on School Size
   
   -Created Summary Table of School Performance Based on School Type (Charter vs. District)
+  
+Created word document of final Py City Schools Summary of noticeable trends
 
 
