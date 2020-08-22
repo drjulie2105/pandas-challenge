@@ -1,4 +1,4 @@
-# pandas-challenge
+# Py City Schools Summary
 
 Used pandas and Jupyter to create various summary tables of Py City Schools
 
